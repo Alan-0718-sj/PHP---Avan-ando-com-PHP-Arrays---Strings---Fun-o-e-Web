@@ -1,0 +1,5 @@
+Digite no terminar e aperte Enter
+php -S localhost:8000
+
+No bowser digite o localhost e aperte Enter
+localhost:8000
